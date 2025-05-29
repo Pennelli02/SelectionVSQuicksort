@@ -19,7 +19,7 @@ Quick Sort si dimostra molto più efficiente del Selection Sort, in linea con la
 
 ## Autore
 
-[TLorenzo Maria Pennelli] – A.A. 2024/2025
+[Lorenzo Maria Pennelli] – A.A. 2024/2025
 
 ## Licenza
 
